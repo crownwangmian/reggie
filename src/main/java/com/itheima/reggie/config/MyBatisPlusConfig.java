@@ -1,4 +1,4 @@
-package com.itheima.reggie.cinfig;
+package com.itheima.reggie.config;
 
 import com.baomidou.mybatisplus.extension.plugins.MybatisPlusInterceptor;
 import com.baomidou.mybatisplus.extension.plugins.inner.PaginationInnerInterceptor;

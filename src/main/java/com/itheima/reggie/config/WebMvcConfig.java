@@ -1,7 +1,6 @@
-package com.itheima.reggie.cinfig;
+package com.itheima.reggie.config;
 
 import com.itheima.reggie.common.JacksonObjectMapper;
-import com.itheima.reggie.entity.Employee;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.http.converter.HttpMessageConverter;
