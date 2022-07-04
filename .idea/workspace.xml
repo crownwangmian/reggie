@@ -4,16 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55ea19cf-5413-49ec-934b-557004e0afc0" name="Default Changelist" comment="commit1111">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/itheima/reggie/config/RedisConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/itheima/b1/tt.java" beforeDir="false" />
+    <list default="true" id="55ea19cf-5413-49ec-934b-557004e0afc0" name="Default Changelist" comment="Redis环境配置">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/itheima/reggie/controller/DishController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/itheima/reggie/controller/DishController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/itheima/reggie/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/itheima/reggie/controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/itheima/test/UploadFileTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/itheima/test/UploadFileTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +70,9 @@
     <property name="project.structure.proportion" value="0.12953368" />
     <property name="project.structure.side.proportion" value="0.15499252" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -211,7 +208,7 @@
       <workItem from="1656666100260" duration="4018000" />
       <workItem from="1656689255044" duration="22922000" />
       <workItem from="1656790346539" duration="3290000" />
-      <workItem from="1656922361043" duration="7760000" />
+      <workItem from="1656922361043" duration="13019000" />
     </task>
     <task id="LOCAL-00001" summary="second vision">
       <created>1656623155567</created>
@@ -248,7 +245,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656794509976</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Redis环境配置">
+      <created>1656955325879</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1656955325879</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -312,6 +316,7 @@
     <MESSAGE value="day 6" />
     <MESSAGE value="commit" />
     <MESSAGE value="commit1111" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit1111" />
+    <MESSAGE value="Redis环境配置" />
+    <option name="LAST_COMMIT_MESSAGE" value="Redis环境配置" />
   </component>
 </project>
